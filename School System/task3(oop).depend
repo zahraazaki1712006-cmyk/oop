@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1759166198 source:c:\users\hp\desktop\tasks\task3(oop)\main.cpp
+	<iostream>
+	<Person.h>
+
+1759166198 c:\users\hp\desktop\tasks\task3(oop)\include\person.h
+	<iostream>
+
